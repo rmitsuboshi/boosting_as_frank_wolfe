@@ -1,0 +1,14 @@
+Dataset,Size,Feature
+banana,5300,3
+breast_cancer,263,10
+diabetis,768,9
+flare_solar,144,10
+german,1000,21
+heart,270,14
+image,2086,19
+ringnorm,7400,21
+splice,2991,61
+thyroid,215,6
+titanic,24,4
+twonorm,7400,21
+waveform,5000,22

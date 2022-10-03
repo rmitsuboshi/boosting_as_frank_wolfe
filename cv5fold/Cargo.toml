@@ -1,0 +1,11 @@
+[package]
+name = "cv5fold"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+mlpboost   = { path = "./../mlpboost" }
+lycaon     = { path = "./../lycaon" }
+polars     = { git = "https://github.com/pola-rs/polars" }
